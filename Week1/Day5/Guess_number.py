@@ -11,6 +11,8 @@ print(" ")
 print(" ")
 #code#
 chance_holder = 0
+correct_answer_1 = 0
+correct_answer_2 = 0
 correct_answer_1 = random.randint(1,10)
 correct_answer_2 = random.randint(11,20)
 correct_answer = random.randint(correct_answer_1,correct_answer_2)
